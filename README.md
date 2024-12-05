@@ -12,7 +12,6 @@
 
 Instala [P4V](https://www.perforce.com/downloads/helix-visual-client-p4v) para establecer una conexion al servidor
 **ssl:mudv-vcs.iaas.ull.es:1666**
-![alt text](image.png)
 
 realacionamos el espacio de trabajo FDV2425 
 ![alt text](./img/image-2.png)
